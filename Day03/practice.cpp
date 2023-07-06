@@ -40,7 +40,7 @@ main(){
     cout<<m;
 
     // Problem - 3
-    bool e;
+    int e;
     cin>>e;
     cout<<isEven(e);
 
